@@ -1,4 +1,4 @@
 # CET-Sipders
 To get the students score of CET4 or CET6
 You should put the students information in the s.xls,and the programme will use it to get the score from http://www.chsi.com.cn/cet/
-![](https://github.com/12wang3/CET-Sipders/raw/master/ResultPicture)
+![](https://github.com/12wang3/CET-Sipders/raw/master/ResultPicture.png)
